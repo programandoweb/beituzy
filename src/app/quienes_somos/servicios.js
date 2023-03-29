@@ -15,7 +15,7 @@ const App=()=>{
                     <div className="p-100"></div>
                     <h2 className="title-quienes-somos text-white text-center">¿Quienes somos?</h2>
                     <p className="text-white">
-                      Beituzy™️ es una de las integradoras multiempresas del campo de la ingeniería social, la programación y el posicionamiento SEO más importantes de América Latina, nacimos en el 2008 en la ciudad de Pereira (Risaralda) Colombia, hoy estamos presentes gracias a nuestros partners de internacionalización en Brasil, Chile, Argentina, México y España desde donde atendemos operaciones a más de 45 clientes en 9 Países del mundo.
+                      Beituzy™️ es una de las integradoras multiempresas del campo de la ingeniería social, la programación y el posicionamiento SEO más importantes de América Latina, nacimos en el 2020 en la ciudad de Pereira (Risaralda) Colombia, hoy estamos presentes gracias a nuestros partners de internacionalización en Brasil, Chile, Argentina, México y España desde donde atendemos operaciones a más de 45 clientes en 9 Países del mundo.
                       <br/>
                       <br/>
                       Todos nuestros sistemas hoy son implementados por medio del Sistema de Gestión a la Calidad ISO 9001 Versión 2008 e ISO 27001 Versión 2013.

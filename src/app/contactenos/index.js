@@ -59,7 +59,7 @@ const App=()=>{
                       <div className="card-body">
                         <div className="row">
                           <div className="col">
-                            informacion@beituzy.com
+                            info@beituzy.com
                           </div>
                           <div className="col">
                             Lunes a sábado 8:00 A.M. a 5:00 P.M.
@@ -67,10 +67,10 @@ const App=()=>{
                         </div>
                         <div className="row">
                           <div className="col">
-                            +57 555 888843
+                            +57(6)3117654
                           </div>
                           <div className="col">
-                            Carrera 45 #55-65 Pereira
+                            Centro de Negocios Centros Torre 1 Oficina 305, Sector Galicia
                           </div>
                         </div>
                       </div>
@@ -105,7 +105,7 @@ const App=()=>{
                   </form>
                 </div>
                 <div className="col-12 col-sm-4 ">
-                  <iframe title="google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.6673207793065!2d-75.68681428523719!3d4.827064196494762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3881c06573199b%3A0x74417381ceba030e!2sAlma%20Cat%20Centro%20Veterinario!5e0!3m2!1ses-419!2sco!4v1626355197286!5m2!1ses-419!2sco" width="100%" height="450" loading="lazy"></iframe>
+                  <iframe title="google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.7845703601943!2d-75.68591938533402!3d4.807013242065263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38873c14886ee5%3A0x895244a341e8ee7c!2sedificio%20centro%20de%20negocios!5e0!3m2!1ses!2sco!4v1680090421954!5m2!1ses!2sco" width="100%" height="450" loading="lazy"></iframe>
                 </div>
               </div>
             </div>

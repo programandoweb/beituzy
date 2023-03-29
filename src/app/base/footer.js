@@ -11,10 +11,10 @@ const App=()=>{
               </div>
               <div className="row justify-content-center mb-2">
                 <div className="col-12 col-sm-3 text-center text-white">
-                  <img src={phone} alt="pgrw" className="col-3"/>  PBX(6)310 17 66
+                  <img src={phone} alt="pgrw" className="col-3"/>  PBX(6)3117654
                 </div>
                 <div className="col-12 col-sm-3 text-center text-white">
-                  <img src={mail} alt="pgrw" className="col-3"/>  informacion@beituzy.com
+                  <img src={mail} alt="pgrw" className="col-3"/>  info@beituzy.com
                 </div>
               </div>
               <div className="row justify-content-center text-white">

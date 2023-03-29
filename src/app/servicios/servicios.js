@@ -18,7 +18,7 @@ const App=()=>{
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                               </p>
                               <div className="text-center">
-                                <div className="btn btn-primary">Contáctanos</div>
+                                <a className="btn btn-primary" href="./contactenos">Contáctanos</a>
                               </div>
                             </div>
                           </div>
@@ -33,7 +33,7 @@ const App=()=>{
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                               </p>
                               <div className="text-center">
-                                <div className="btn btn-primary">Contáctanos</div>
+                                <a className="btn btn-primary" href="./contactenos">Contáctanos</a>
                               </div>
                             </div>
                           </div>
@@ -46,7 +46,7 @@ const App=()=>{
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                               </p>
                               <div className="text-center">
-                                <div className="btn btn-primary">Contáctanos</div>
+                                <a className="btn btn-primary" href="./contactenos">Contáctanos</a>
                               </div>
                             </div>
                           </div>
@@ -61,7 +61,7 @@ const App=()=>{
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                               </p>
                               <div className="text-center">
-                                <div className="btn btn-primary">Contáctanos</div>
+                                <a className="btn btn-primary" href="./contactenos">Contáctanos</a>
                               </div>
                             </div>
                           </div>
